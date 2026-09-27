@@ -198,5 +198,11 @@
 		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/victorinox",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
+	},
+		{
+		"name": "tagmonaco",
+		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco",
+		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
+		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco/watchface.tar.gz"
 	}	
 ]
