@@ -199,27 +199,35 @@
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
 	},
-		{
+	{
 		"name": "tagmonaco",
 		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco/watchface.tar.gz"
 	},
-			{
+	{
 		"name": "rado",
 		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/rado",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/rado/watchface.tar.gz"
-	},				{
+	},
+	{				
 		"name": "louisvuitton",
 		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/louisvuitton",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/louisvuitton/watchface.tar.gz"
 	},
-				{
-		"name": "feice",
-		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/feice",
+	{
+		"name": "cartier",
+		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/cartier",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
-		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/feice/watchface.tar.gz"
-	}	
+		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/cartier/watchface.tar.gz"
+	},
+	{
+		"name": "nomas",
+		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/nomas",
+		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
+		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/nomas/watchface.tar.gz"
+	}					
+	
 ]
