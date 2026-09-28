@@ -1,0 +1,100 @@
+{
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font": "LCD",
+      "font_color": "#bbbbbb",
+      "font_size": 48,
+      "align": "center",
+      "x_offset": 29,
+      "y_offset": 54,
+      "x_size": 150,
+      "y_size": 60
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font": "LCD",
+      "font_color": "#000000",
+      "font_size": 48,
+      "align": "center",
+      "x_offset": 25,
+      "y_offset": 50,
+      "x_size": 150,
+      "y_size": 60
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%S",
+      "font": "LCD",
+      "font_color": "#bbbbbb",
+      "font_size": 32,
+      "align": "center",
+      "x_offset": 134,
+      "y_offset": 59,
+      "x_size": 125,
+      "y_size": 34
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%S",
+      "font": "LCD",
+      "font_color": "#000000",
+      "font_size": 32,
+      "align": "center",
+      "x_offset": 130,
+      "y_offset": 55,
+      "x_size": 125,
+      "y_size": 34
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%Y-%m-%d",
+      "font": "Ubuntu",
+      "font_color": "#FFFFFF",
+      "font_size": 16,
+      "align": "center",
+      "x_offset": 100,
+      "y_offset": 15,
+      "x_size": 100,
+      "y_size": 20
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font": "Ubuntu",
+      "font_color": "#FFFFFF",
+      "font_size": 16,
+      "align": "center",
+      "x_offset": 70,
+      "y_offset": 120,
+      "x_size": 48,
+      "y_size": 20
+    },
+    {
+      "enable": true,
+      "type": "steps",
+      "label": "%d steps",
+      "font": "Ubuntu",
+      "font_color": "#FFFFFF",
+      "font_size": 16,
+      "align": "center",
+      "x_offset": 120,
+      "y_offset": 120,
+      "x_size": 125,
+      "y_size": 20
+    }
+  ]
+}
