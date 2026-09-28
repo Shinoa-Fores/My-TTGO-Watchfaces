@@ -1,0 +1,40 @@
+{
+  "api_level": 2,
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "hour": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "min": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "sec": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M:%S",
+      "font": "LCD",
+      "font_color": "#000000",
+      "font_size": 32,
+      "align": "center",
+      "hide_interval": 0,
+      "x_offset": 55,
+      "y_offset": 148,
+      "x_size": 130,
+      "y_size": 36
+    }
+  ],
+  "image": []
+}
