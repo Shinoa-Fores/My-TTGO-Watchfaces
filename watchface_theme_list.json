@@ -204,5 +204,11 @@
 		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco",
 		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/tagmonaco/watchface.tar.gz"
-	}	
+	},
+			{
+		"name": "rado",
+		"url": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/rado",
+		"home_url": "https://github.com/Shinoa-Fores/My-TTGO-Watchfaces/",
+		"download": "https://raw.githubusercontent.com/Shinoa-Fores/My-TTGO-Watchfaces/main/rado/watchface.tar.gz"
+	}
 ]
